@@ -45,7 +45,7 @@ print(is_palindrome_recursive('spam'))
 ```
 
 **Вывод программы:**
-<img width="235" height="68" alt="image" src="https://github.com/user-attachments/assets/14f23608-6e97-447f-ab0d-53d6d3f030e9" />
+<img width="289" height="97" alt="image" src="https://github.com/user-attachments/assets/6112eabe-038f-442e-ba8a-72e332bef56a" />
 
 
 ## Задание 2
